@@ -8,6 +8,6 @@
 
 ### Hobbies
 
-`Hicking`, `Singing`
+`Hiking`, `Singing`
 
 
